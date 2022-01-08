@@ -1,6 +1,6 @@
 # Livro - Primeiros Contatos com a Graduação (Tito Spadini)
 
-Repositório de armazenamento de distribuição do livro "Primeiros Contatos com a Graduação" (Tito Spadini).
+Repositório de armazenamento e distribuição do livro "Primeiros Contatos com a Graduação" (Tito Spadini).
 
 Este livro foi originalmente escrito e distribuído por Tito Spadini.
 
