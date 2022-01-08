@@ -1,11 +1,11 @@
 # Livros - Coleção Sobre a Graduação (Tito Spadini)
 
-- 1 - Primeiros Contatos com a Graduação
-- 2 - Tropeços em Disciplinas da Graduação
-- 3 - Histórias da Graduação
-- 4 - Inquietudes sobre a Graduação
-- 5 - O Sensei da Graduação
-- 6 - Sugestões sobre a Graduação
+1. Primeiros Contatos com a Graduação
+2. Tropeços em Disciplinas da Graduação
+3. Histórias da Graduação
+4. Inquietudes sobre a Graduação
+5. O Sensei da Graduação
+6. Sugestões sobre a Graduação
 
 Repositório de armazenamento e distribuição dos livros da coleção Sobre a Graduação, de Tito Spadini.
 
