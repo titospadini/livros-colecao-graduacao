@@ -7,8 +7,6 @@
 5. O Sensei da Graduação
 6. Sugestões sobre a Graduação
 
-Repositório de armazenamento e distribuição dos livros da coleção Sobre a Graduação, de Tito Spadini.
-
 Estes livros foram originalmente escritos e distribuídos por Tito Spadini.
 
 Material protegido pela licença [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
