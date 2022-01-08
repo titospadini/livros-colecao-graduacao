@@ -10,7 +10,7 @@ Contribuições podem ser feitas por meio da chave Pix "tito.spadini@gmail.com" 
 
 Este repositório possui duas versões do mesmo livro, sendo uma com fundo de cor branca e uma com fundo de cor creme.
 
-Você pode baixar ambas as versões pelos Links a seguir:
+Você pode baixar os PDFs de ambas as versões pelos Links a seguir:
 
 - [Fundo Branco](https://github.com/titocaco/livro-graduacao-1/raw/main/Tito%20Spadini%20-%20Primeiros%20Contatos%20com%20a%20Gradua%C3%A7%C3%A3o.pdf)
 - [Fundo Creme](https://github.com/titocaco/livro-graduacao-1/raw/main/Tito%20Spadini%20-%20Primeiros%20Contatos%20com%20a%20Gradua%C3%A7%C3%A3o%20-%20Fundo%20Creme.pdf)
