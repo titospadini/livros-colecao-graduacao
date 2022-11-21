@@ -15,7 +15,12 @@ Contribuições podem ser feitas por meio da chave Pix "tito.spadini@gmail.com" 
 
 Este repositório trará duas versões de PDF para cada livro, sendo uma com fundo de cor branca e uma com fundo de cor creme.
 
-Por enquanto, apenas o primeiro livro, "Primeiros Contatos com a Graduação", está disponível. Você pode baixar os PDFs de ambas as versões pelos Links a seguir:
+Por enquanto, apenas os dois primeiros livros, "Primeiros Contatos com a Graduação" e "Tropeços em Disciplinas da Graduação", estão disponíveis. Você pode baixar os PDFs de ambas as versões pelos Links a seguir:
 
+## Download - Livro 1
 - [Fundo Branco](https://github.com/titocaco/livros-colecao-graduacao/raw/main/Livro%201%20-%20Primeiros%20Contatos%20com%20a%20Gradua%C3%A7%C3%A3o%20(Tito%20Spadini)/Tito%20Spadini%20-%201%20-%20Primeiros%20Contatos%20com%20a%20Gradua%C3%A7%C3%A3o.pdf)
 - [Fundo Creme](https://github.com/titocaco/livros-colecao-graduacao/raw/main/Livro%201%20-%20Primeiros%20Contatos%20com%20a%20Gradua%C3%A7%C3%A3o%20(Tito%20Spadini)/Tito%20Spadini%20-%201%20-%20Primeiros%20Contatos%20com%20a%20Gradua%C3%A7%C3%A3o%20-%20Fundo%20Creme.pdf)
+
+## Download - Livro 2
+- [Fundo Branco](https://github.com/titocaco/livros-colecao-graduacao/blob/main/Livro%202%20-%20Trope%C3%A7os%20em%20Disciplinas%20da%20Gradua%C3%A7%C3%A3o%20(Tito%20Spadini)/Tito%20Spadini%20-%202%20-%20Trope%C3%A7os%20em%20Disciplinas%20da%20Gradua%C3%A7%C3%A3o.pdf)
+- [Fundo Creme](https://github.com/titocaco/livros-colecao-graduacao/blob/main/Livro%202%20-%20Trope%C3%A7os%20em%20Disciplinas%20da%20Gradua%C3%A7%C3%A3o%20(Tito%20Spadini)/Tito%20Spadini%20-%202%20-%20Trope%C3%A7os%20em%20Disciplinas%20da%20Gradua%C3%A7%C3%A3o%20-%20Fundo%20Creme.pdf)
