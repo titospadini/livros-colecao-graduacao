@@ -22,5 +22,5 @@ Por enquanto, apenas os dois primeiros livros, "Primeiros Contatos com a Gradua√
 - [Fundo Creme](https://github.com/titocaco/livros-colecao-graduacao/raw/main/Livro%201%20-%20Primeiros%20Contatos%20com%20a%20Gradua%C3%A7%C3%A3o%20(Tito%20Spadini)/Tito%20Spadini%20-%201%20-%20Primeiros%20Contatos%20com%20a%20Gradua%C3%A7%C3%A3o%20-%20Fundo%20Creme.pdf)
 
 ## Download - Livro 2
-- [Fundo Branco](https://github.com/titocaco/livros-colecao-graduacao/blob/main/Livro%202%20-%20Trope%C3%A7os%20em%20Disciplinas%20da%20Gradua%C3%A7%C3%A3o%20(Tito%20Spadini)/Tito%20Spadini%20-%202%20-%20Trope%C3%A7os%20em%20Disciplinas%20da%20Gradua%C3%A7%C3%A3o.pdf)
-- [Fundo Creme](https://github.com/titocaco/livros-colecao-graduacao/blob/main/Livro%202%20-%20Trope%C3%A7os%20em%20Disciplinas%20da%20Gradua%C3%A7%C3%A3o%20(Tito%20Spadini)/Tito%20Spadini%20-%202%20-%20Trope%C3%A7os%20em%20Disciplinas%20da%20Gradua%C3%A7%C3%A3o%20-%20Fundo%20Creme.pdf)
+- [Fundo Branco](https://github.com/titocaco/livros-colecao-graduacao/raw/main/Livro%202%20-%20Trope%C3%A7os%20em%20Disciplinas%20da%20Gradua%C3%A7%C3%A3o%20(Tito%20Spadini)/Tito%20Spadini%20-%202%20-%20Trope%C3%A7os%20em%20Disciplinas%20da%20Gradua%C3%A7%C3%A3o.pdf)
+- [Fundo Creme](https://github.com/titocaco/livros-colecao-graduacao/raw/main/Livro%202%20-%20Trope%C3%A7os%20em%20Disciplinas%20da%20Gradua%C3%A7%C3%A3o%20(Tito%20Spadini)/Tito%20Spadini%20-%202%20-%20Trope%C3%A7os%20em%20Disciplinas%20da%20Gradua%C3%A7%C3%A3o%20-%20Fundo%20Creme.pdf)
