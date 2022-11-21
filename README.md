@@ -1,7 +1,7 @@
 # Livros - Coleção Sobre a Graduação (Tito Spadini)
 
 1. [Primeiros Contatos com a Graduação](https://github.com/titocaco/livros-colecao-graduacao/tree/main/Livro%201%20-%20Primeiros%20Contatos%20com%20a%20Gradua%C3%A7%C3%A3o%20(Tito%20Spadini)) (disponível)
-2. Tropeços em Disciplinas da Graduação
+2. [Tropeços em Disciplinas da Graduação](https://github.com/titocaco/livros-colecao-graduacao/tree/main/Livro%202%20-%20Trope%C3%A7os%20em%20Disciplinas%20da%20Gradua%C3%A7%C3%A3o%20(Tito%20Spadini)) (disponível)
 3. Histórias da Graduação
 4. Inquietudes sobre a Graduação
 5. O Sensei da Graduação
